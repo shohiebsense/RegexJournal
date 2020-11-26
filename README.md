@@ -22,3 +22,4 @@ Learn Regex
 1. \+  
 Quantifier. Example:
 ``/e+/g``  
+(https://github.com/shohiebsense/RegexJournal/blob/main/1..png?raw=true)
