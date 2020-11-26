@@ -33,24 +33,23 @@ Optional. Matches 0 or 1 of the preceding token, effectively making it optional.
 
 3. \*  
 Combination of \+ and \?. Matches 0 or more of the preceding token.  
-``/re*/g  
+``/re*/g  ``  
 ![example](https://github.com/shohiebsense/RegexJournal/blob/main/4.png?raw=true)  
 ![example](https://github.com/shohiebsense/RegexJournal/blob/main/5.png?raw=true)  
 
 
 4. \.  
 Matches any character except linebreaks.  
-``/.at/g  
+``/.at/g  ``  
 ![example](https://github.com/shohiebsense/RegexJournal/blob/main/6.png?raw=true)  
 
-5. \w  or [A-Za-z0-9_]
+5. \w  or [A-Za-z0-9_]  
 Matches any word character (alphanumeric & underscore). Only matches low-ascii characters (no accented or non-roman characters).  
 ![example](https://github.com/shohiebsense/RegexJournal/blob/main/7.png?raw=true)  
 
 6. \s  
 Whitespace. Matches any whitespace character (spaces, tabs, line breaks).  
 ![example](https://github.com/shohiebsense/RegexJournal/blob/main/8.png?raw=true)  
-
 
 7. \S
 Not Whitespace. Matches any character that is not a whitespace character (spaces, tabs, line breaks).  
