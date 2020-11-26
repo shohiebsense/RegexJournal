@@ -40,7 +40,7 @@ Combination of \+ and \?. Matches 0 or more of the preceding token.
 
 4. \.  
 Matches any character except linebreaks.  
-``/.at/g
+``/.at/g  
 ![example](https://github.com/shohiebsense/RegexJournal/blob/main/6.png?raw=true)  
 
 5. \w  or [A-Za-z0-9_]
@@ -99,8 +99,8 @@ Positive Lookbehind. Matches a group before the main expression without includin
 
 16. \d
 Digits.  
-``/^(0[8]|62)[0-9]{8,10}$/gm  ``
+``/^(0[8]|62)[0-9]{8,10}$/gm  ``  
 ![example](https://github.com/shohiebsense/RegexJournal/blob/main/21.png?raw=true)  
-``/^(08|62)\d{8,11}$/gm ``
+``/^(08|62)\d{8,11}$/gm ``  
 ![example](https://github.com/shohiebsense/RegexJournal/blob/main/22.png?raw=true)  
 
