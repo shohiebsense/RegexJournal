@@ -69,13 +69,13 @@ Word + Quantifier. {4,} Match 4 and 5 of the preceeding token.
 ![example](https://github.com/shohiebsense/RegexJournal/blob/main/12.png?raw=true)  
 
 11. [a-zA-Z]  
-Character Set. Matches a character in the range "a" to "z" case sensitive. "A" to "Z" case sensitive.
+Character Set. Matches a character in the range "a" to "z" case sensitive. "A" to "Z" case sensitive.  
 ``/[a-zA-Z]at/g  ``  
 ![example](https://github.com/shohiebsense/RegexJournal/blob/main/13.png?raw=true)  
 
 12. (t|T)
 Or. 
-``/(t|T)he/g
+``/(t|T)he/g``
 ![example](https://github.com/shohiebsense/RegexJournal/blob/main/14.png?raw=true)  
 ![example](https://github.com/shohiebsense/RegexJournal/blob/main/15.png?raw=true)  
 ![example](https://github.com/shohiebsense/RegexJournal/blob/main/16.png?raw=true)  
