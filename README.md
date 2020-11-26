@@ -20,3 +20,5 @@ Learn Regex
 
 ## Regex Expressions
 1. \+  
+Quantifier. Example:
+``/e+/g``  
