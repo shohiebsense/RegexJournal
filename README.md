@@ -5,8 +5,7 @@ Learn Regex
 ``/[regex_expressions]/[flags] ``
 
 ## Flags
-1. Global  
-Search all, not search only for first. 
+1. Global. Search all, not search only for first  
 ``g``  
 2. Case Insensitive  
 ``i``  
@@ -20,4 +19,4 @@ Search all, not search only for first.
 ``y``  
 
 ## Regex Expressions
-1. +  
+1. \+  
